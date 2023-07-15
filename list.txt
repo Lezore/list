@@ -9,14 +9,14 @@ https://osint.link - list of more OSINT SE's
 
 1. Name-exclusive search engines:
 - https://whatsmyname.app/
-- https://github.com/p1ngul1n0/blackbird 		*setup required
-- https://github.com/sherlock-project/sherlock 		*setup required
+- https://github.com/p1ngul1n0/blackbird 		
+- https://github.com/sherlock-project/sherlock 		
 
 2. General leak search engines:
-- https://intelx.io/			(best for everything)
+- https://intelx.io/			(good results)
 - https://snusbase.com/	
 - https://www.dehashed.com/
-- https://skidsearch.net/		(for minecraft)
+- https://skidsearch.net/		(for minecraft mostly)
 - https://hackcheck.io/			
 - https://osint.industries/ 		(for social media)
 - https://dehash.me/			(dehashing passwords)
