@@ -1,0 +1,129 @@
+   ___  ____ ___ _   _ _____   _____ ___   ___  _     ____  
+  / _ \/ ___|_ _| \ | |_   _| |_   _/ _ \ / _ \| |   / ___| 
+ | | | \___ \| ||  \| | | |     | || | | | | | | |   \___ \ 
+ | |_| |___) | || |\  | | |     | || |_| | |_| | |___ ___) |
+  \___/|____/___|_| \_| |_|     |_| \___/ \___/|_____|____/ 
+                                                            
+https://osintframework.com - just basic framework
+https://osint.link - list of more OSINT SE's
+
+1. Name-exclusive search engines:
+- https://whatsmyname.app/
+- https://github.com/p1ngul1n0/blackbird 		*setup required
+- https://github.com/sherlock-project/sherlock 		*setup required
+
+2. General leak search engines:
+- https://intelx.io/			(best for everything)
+- https://snusbase.com/	
+- https://www.dehashed.com/
+- https://skidsearch.net/		(for minecraft)
+- https://hackcheck.io/			
+- https://osint.industries/ 		(for social media)
+- https://dehash.me/			(dehashing passwords)
+
+3. IP checker:
+- https://ipx.ac/ (general location)
+
+
+*----------------------------------------------------------------*
+*								 *
+*----------------------------------------------------------------*
+
+   _____ ______ _____ _    _ _____  _____ _________     __
+  / ____|  ____/ ____| |  | |  __ \|_   _|__   __\ \   / /
+ | (___ | |__ | |    | |  | | |__) | | |    | |   \ \_/ / 
+  \___ \|  __|| |    | |  | |  _  /  | |    | |    \   /  
+  ____) | |___| |____| |__| | | \ \ _| |_   | |     | |   
+ |_____/|______\_____|\____/|_|  \_\_____|  |_|     |_|   
+                                                          
+                                                          
+
+
+1. Browser (FF):
+- https://amiunique.org/fingerprint 								(browser fingerprinting)
+- https://browserleaks.com/ 									(checks your browser's security)
+- https://ffprofile.com/
+
+1.1 Browser extensions:
+- https://addons.mozilla.org/en-US/firefox/addon/secure-password-generator/			(password generator
+- https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/				(password manager for KeePassX (ITS SHIT)
+- https://addons.mozilla.org/en-US/firefox/addon/temp-mail/					(temp mail gen)
+- https://temporary-phone-number.com/								(temporary phone numbers)
+
+- https://adguard.com/kb/adguard-for-windows/solving-problems/connection-not-trusted/  		(adblocker)
+https://addons.mozilla.org/en-US/firefox/addon/noscript/					(removes javascript)
+- https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/ 			(useragent switcher)
+- https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/					(removes link middlemanning)
+- https://addons.mozilla.org/en-US/firefox/addon/clearurls/					(privacy enhancement)
+- https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/			(privacy enhancement for VPN users)
+- https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/					
+- https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/
+
+
+2. Malware related
+- https://www.reddit.com/r/TronScript/wiki/downloads/?rdt=41584 				(antivirus)
+- https://www.virustotal.com/gui/								(virus uploader)
+- https://www.urlvoid.com/									(virus link check)
+
+2.1 Phishing
+- https://apps.timwhitlock.info/unicode/inspect							(unicode inspector)
+- https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5			(fake .zip domains)
+- https://emkei.cz/										(mail spoofer)
+- https://phishtank.org/									(phishing sites database)
+
+
+*----------------------------------------------------------------*
+*								 *
+*----------------------------------------------------------------*
+
+  _____ ___   ___  _     ____  
+ |_   _/ _ \ / _ \| |   / ___| 
+   | || | | | | | | |   \___ \ 
+   | || |_| | |_| | |___ ___) |
+   |_| \___/ \___/|_____|____/ 
+
+
+- https://www.reddit.com/r/OptimizedGaming/comments/su6cq7/windows_1011_optimization_guide/ 	(optimization guide for windows)
+
+
+- https://mullvad.net/en			(VPN)
+- https://dban.org/ 				(drive wiper)
+- https://www.veracrypt.fr/code/VeraCrypt/	(drive encryption)
+- https://discord.gg/kingrdp			(RDPs)
+- http://cryto.net/~joepie91/bitcoinvps.html	(VPS)
+- https://github.com/mandiant/flare-vm		(VM for testing malware)
+- https://www.wireshark.org/			(network listener)
+- http://java-decompiler.github.io/		(java files decompiler)
+- https://www.httrack.com/			(website mirrorer)
+- https://keepassxc.org/download		(local password manager)
+
+
+
+
+*----------------------------------------------------------------*
+*								 *
+*----------------------------------------------------------------*
+
+  __  __ _   _ _     _ __     ___    ____  
+ |  \/  | | | | |   | |\ \   / / \  |  _ \ 
+ | |\/| | | | | |   | | \ \ / / _ \ | | | |
+ | |  | | |_| | |___| |__\ V / ___ \| |_| |
+ |_|  |_|\___/|_____|_____\_/_/   \_\____/ 
+                                           
+
+- https://mullvad.net/en/check			(check for connection issues)
+- https://mullvad.net/en/help/socks5-proxy/	(setup socks5 proxy on mullvad)
+- https://scamalytics.com/ip/			(check for fraud score)
+
+                                    
+
+
+
+
+
+
+*font - https://patorjk.com/software/taag/#p=display&f=Big&t=
+                                          
+
+
+
